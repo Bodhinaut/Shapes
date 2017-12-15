@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=width\ length\ height
+comment0.target=Cube(double,\ double,\ double)
+comment1.params=
+comment1.target=double\ getHeight()
+comment2.params=height
+comment2.target=void\ setHeight(double)
+comment3.params=
+comment3.target=double\ volume()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=filename
+comment1.target=java.util.ArrayList\ readShapesFromFile(java.lang.String)
+comment2.params=shapes
+comment2.target=Shape\ shapeWithLargestArea(java.util.ArrayList)
+comment3.params=type\ shapes
+comment3.target=int\ countOfShape(java.lang.String,\ java.util.ArrayList)
+comment4.params=shapes\ filename
+comment4.target=void\ writeShapesToFile(java.util.ArrayList,\ java.lang.String)
+numComments=5

@@ -1,0 +1,18 @@
+Rectangle: width: 10.0, length: 20.0, area: 200.00, perimeter: 60.00
+   Circle: radius: 30.0, area: 2827.43, circumference: 188.50
+   Circle: radius: 10.0, area: 314.16, circumference: 62.83
+Rectangle: width: 100.0, length: 100.0, area: 10000.00, perimeter: 400.00
+   Circle: radius: 45.0, area: 6361.73, circumference: 282.74
+   Sphere: radius: 30.0, area: 11309.73, circumference: 188.50, volume: 113097.3
+   Sphere: radius: 25.0, area: 7853.98, circumference: 157.08, volume: 65449.8
+     Cube: width: 5.0, length: 5.0, area: 25.00, perimeter: 20.00, height: 5.0, volume: 125.0
+     Cube: width: 10.0, length: 10.0, area: 100.00, perimeter: 40.00, height: 10.0, volume: 1000.0
+
+Object with largest area:
+	   Sphere: radius: 30.0, area: 11309.73, circumference: 188.50, volume: 113097.3
+
+Rectangle count: 2
+   Circle count: 3
+
+     Cube count: 2
+   Sphere count: 2

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=type
+comment0.target=Shape(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getType()
+comment2.params=type
+comment2.target=void\ setType(java.lang.String)
+comment3.params=
+comment3.target=double\ area()
+comment4.params=
+comment4.target=double\ getArea()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
